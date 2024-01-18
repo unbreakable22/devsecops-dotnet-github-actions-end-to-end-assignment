@@ -1,7 +1,7 @@
 name: Build
 
 on:
-  # Trigger analysis when pushing in master or pull requests, and when creating for tj
+  # Trigger analysis when pushing in master or pull requests, and when creating for tj editing snyk token
   # a pull request.
   push:
     branches:
